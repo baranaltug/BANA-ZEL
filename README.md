@@ -1,2 +1,3 @@
 # proje
-birey okularinin kendimi geliştirmek için yaptiğm proje
+BİREY OKULARİ İÇİN YAPİLMİŞ KİTAP SATİŞ MAĞZASİ
+
